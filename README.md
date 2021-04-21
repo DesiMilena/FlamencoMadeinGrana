@@ -45,7 +45,8 @@ Univesidad de Granada
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
 * Protopie (diseño app)
 * Pano2VR (tour virtuales)
-* 
+* Layar (realidad aumentada)
+
 ### Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
