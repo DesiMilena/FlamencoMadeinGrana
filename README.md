@@ -14,7 +14,6 @@ Univesidad de Granada
 
 **Resumen** : Proyecto educativo transmedial que muestra las particularidades del flamenco que nace en Granada, y que lo diferencian del que surge en otras partes de España. Nos adentraremos en el flamenco granadino a través de la historia de lugares emblemáticos como el Albaicín, el Sacromonte o la plaza de los Aljibes de la Alhambra, así como los artistas y eventos más destacados del flamenco en esta ciudad y los palos típicos que nacieron en Granada.
 
-**Motivaciones** : Cuando se habla de flamenco, muchos piensan que Jerez o Sevilla fueron las ciudades que más han aportado al flamenco, y pocos conocen que Granada fue pionera en el flamenco. En esta ciudad se celebró el primer evento que llevó a considerar el flamenco como una alta expresión de la cultura andaluza y a posicionarlo como música popular no solo dirigida a las clases populares, sino también presente en la alta cultura. Nos referimos al concurso de Cante Jondo de Granada celebrado en 2022, del que pronto se cumplen 100 años.  Fue un evento pionero en el flamenco que tuvo lugar en la Plaza de los Aljibes de la Alhambra, y que se celebró gracias al impulso del compositor Manuel de Falla y del poeta Federico García Lorca.
 
 **logotipo** :  ________
 
@@ -56,17 +55,19 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 * 
 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** Por un lado la celebración del Centenario del Concurso de Cante Jondo en 2022.  Pero por otro pretendemos incentivar el turismo tras la crisis ocasionada por la Covid, que ha afectado especialmente a los artistas que trabajan en tablaos en nuestra ciudad y que dependen directamente de esta actividad económica. 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** Cuando se habla de flamenco, muchos piensan que Jerez o Sevilla fueron las ciudades que más han aportado al flamenco, y pocos conocen que Granada fue pionera en el flamenco. En esta ciudad se celebró el primer evento que llevó a considerar el flamenco como una alta expresión de la cultura andaluza y a posicionarlo como música popular no solo dirigida a las clases populares, sino también presente en la alta cultura. Nos referimos al concurso de Cante Jondo de Granada celebrado en 2022, del que pronto se cumplen 100 años.  Fue un evento pionero en el flamenco que tuvo lugar en la Plaza de los Aljibes de la Alhambra, y que se celebró gracias al impulso del compositor Manuel de Falla y del poeta Federico García Lorca.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto con otros géneros arraigados en la ciudad como el rock, hacen que el flamenco de Granada sea especial
+
+**Personas/Usuarios**  Personas de cualquier edad que sean aficionados a la música y quieran conocer más sobre las particularidades del flamenco de Granada, sus artistas y los puntos más flamencos de la ciudad
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
 (ejemplos/alternativas) 
 * documental interactivo 
-* videojuego 
+* realidad inmersiva
 * ... 
 
 
