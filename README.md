@@ -1,6 +1,5 @@
 ## FLAMENCO MADE IN GRANÁ  
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
@@ -9,7 +8,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : Flamenco made in Graná
+**Titulo** : Flamenco Made in Graná
 
 **Autor(es)** Desirée Milena López
 
@@ -17,14 +16,14 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): Granada cuna del flamenco
+**Slogan**: Granada cuna del flamenco
 
-**Hashtag**  #flamencoGranada #flamencoGraná #flamencogranaíno #
+**Hashtag**  #flamencoGranada #flamencoGraná #flamencogranaíno #palosflamencoGranada #artistasflamencoGranada #Sacromonte #Albaycín #zambra #tangosdeGraná #Granaína
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2021
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): sitio web, App, redes sociales (Facebook, Instagram, Twitter, Youtube, Spotify,Telegram)
 
 
 *  :octocat: (github url) 
