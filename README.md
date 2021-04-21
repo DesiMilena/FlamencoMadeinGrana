@@ -67,12 +67,12 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 **Personas/Usuarios**  Personas de cualquier edad que sean aficionados a la música y quieran conocer más sobre las particularidades del flamenco de Granada, sus artistas y los puntos más flamencos de la ciudad
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**  Narración documental, interactiva e inmersiva.
 
 (ejemplos/alternativas) 
 * documental interactivo 
 * realidad inmersiva
-* ... 
+
 
 
 
