@@ -1,4 +1,4 @@
-## (FLAMENCO MADE IN GRANÁ)  
+## FLAMENCO MADE IN GRANÁ  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
