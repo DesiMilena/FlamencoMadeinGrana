@@ -21,6 +21,7 @@ Univesidad de Granada
 **Slogan**: Granada cuna del flamenco
 
 **Hashtag**  #flamencoGranada #flamencoGraná #flamencogranaíno #palosflamencoGranada #artistasflamencoGranada #Sacromonte #Albaycín #zambra #tangosdeGraná #Granaína
+
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2021
