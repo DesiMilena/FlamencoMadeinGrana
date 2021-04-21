@@ -43,14 +43,16 @@ Univesidad de Granada
 ### Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
-
+* Protopie (diseño app)
+* Pano2VR (tour virtuales)
+* 
 ### Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
+* Aula de flamenco de RTVA Lab. https://www.rtve.es/lab/aula-flamenco/en/reportaje/
 * (...)
 * 
 
