@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (FLAMENCO MADE IN GRANÁ)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -11,19 +11,18 @@ Univesidad de Granada
 
 **Titulo** : Flamenco made in Graná
 
-**Autor(es)** ______________
+**Autor(es)** Desirée Milena López
 
 **Resumen** : _________
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Granada cuna del flamenco
 
-**Hashtag**  ___
-
+**Hashtag**  #flamencoGranada #flamencoGraná #flamencogranaíno #
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
 
