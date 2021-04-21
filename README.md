@@ -12,7 +12,9 @@ Univesidad de Granada
 
 **Autor(es)** Desirée Milena López
 
-**Resumen** : _________
+**Resumen** :Proyecto educativo transmedial que muestra las particularidades del flamenco que nace en Granada, y que lo diferencian del que surge en otras partes de España. Nos adentraremos en el flamenco granadino a través de la historia de lugares emblemáticos como el Albaicín, el Sacromonte o la plaza de los Aljibes de la Alhambra, así como los artistas y eventos más destacados del flamenco en esta ciudad y los palos típicos que nacieron en Granada.
+Cuando se habla de flamenco, muchos piensan que Jerez o Sevilla fueron las ciudades que más han aportado al flamenco, y muchos desconocen que en Granada es una de las cunas principales, y que en esta ciudad se celebró el primer evento que llevó a considerar el flamenco como una alta expresión de la cultura andaluza y a posicionarlo como música popular no solo dirigida a las clases populares, sino también presente en la alta cultura.
+Nos referimos al concurso de Cante Jondo de Granada celebrado en 2022, del que pronto se cumplen 100 años.  Fue un evento pionero en el flamenco que tuvo lugar en la Plaza de los Aljibes de la Alhambra, y que se celebró gracias al impulso del compositor Manuel de Falla y del poeta Federico García Lorca.
 
 **logotipo** :  ________
 
