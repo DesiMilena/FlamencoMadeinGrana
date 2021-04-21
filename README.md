@@ -51,7 +51,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   Desk research (propuestas inspiradoras para el proyecto) 
 
 * Aula de flamenco de RTVA Lab. https://www.rtve.es/lab/aula-flamenco/en/reportaje/
 * (...)
