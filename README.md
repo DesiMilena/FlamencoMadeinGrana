@@ -25,12 +25,16 @@ Univesidad de Granada
 
 **Fecha** : 2021
 
-**Medios** (donde se tiene presencia): sitio web, App, redes sociales (Facebook, Instagram, Twitter, Youtube, Spotify,Telegram)
+**Medios** (donde se tiene presencia):
 
 
-*  :octocat: (github url) 
-* Twitter 
-* ... 
+*  :octocat: (github url)  
+* Instagram
+* Sitio web
+* Twitter
+* Youtube
+* Spotify
+* Telegram
 
 
 
