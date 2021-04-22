@@ -35,7 +35,7 @@ Univesidad de Granada
 * Twitter
 * Youtube
 * Spotify
-* Telegram
+
 
 
 
