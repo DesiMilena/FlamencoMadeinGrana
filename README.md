@@ -15,7 +15,8 @@ Univesidad de Granada
 **Resumen** : Proyecto educativo transmedial que muestra las particularidades del flamenco que nace en Granada, y que lo diferencian del que surge en otras partes de España. Nos adentraremos en el flamenco granadino a través de la historia de lugares emblemáticos como el Albaicín, el Sacromonte o la plaza de los Aljibes de la Alhambra, así como los artistas y eventos más destacados del flamenco en esta ciudad y los palos típicos que nacieron en Granada.
 
 
-**logotipo** :  ________
+**logotipo** :  
+![Flamenco made in Graná](https://user-images.githubusercontent.com/82603093/115732004-e43c4680-a387-11eb-98d7-80af50d236c2.png)
 
 **Slogan**: Granada cuna del flamenco
 
@@ -50,8 +51,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
-
+Actividades realizadas mediante Trello https://trello.com/c/OwRccwpa/36-flamenco-made-in-gran%C3%A1
 **Investigación de campo**   Desk research (propuestas inspiradoras para el proyecto) 
 
 * Aula de flamenco de RTVA Lab. https://www.rtve.es/lab/aula-flamenco/en/reportaje/
