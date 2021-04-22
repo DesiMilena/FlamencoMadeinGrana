@@ -47,7 +47,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 * Protopie (diseño app)
 * Pano2VR (tour virtuales)
 * Layar (realidad aumentada)
-* Klynt
+* Klynt (web interactiva)
 
 ### Etapa 1: Ideación de proyecto 
 
