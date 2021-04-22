@@ -16,7 +16,7 @@ Univesidad de Granada
 
 
 **logotipo** :  
-![Flamenco made in Graná](https://user-images.githubusercontent.com/82603093/115732004-e43c4680-a387-11eb-98d7-80af50d236c2.png)
+![Flamenco made in Graná](https://github.com/DesiMilena/PeriodismoMultimedia_Template/blob/master/Flamenco%20made%20in%20Gran%C3%A1.png)
 
 **Slogan**: Granada cuna del flamenco
 
