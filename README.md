@@ -95,11 +95,10 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/zambra.png)
 
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png)
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/curro%20tangos%20de%20Gran%C3%A1.png)
-
 
 
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/escanea%20c%C3%B3digo.png)
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/curro%20tangos%20de%20Gran%C3%A1.png)
 
 
 
