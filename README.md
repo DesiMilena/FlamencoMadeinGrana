@@ -94,9 +94,12 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/4.palos.png)
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/zambra.png)
 
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png)
+
+
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/escanea%20c%C3%B3digo.png)
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png)
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
