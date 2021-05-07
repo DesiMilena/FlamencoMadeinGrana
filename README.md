@@ -83,22 +83,20 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.jpg
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.jpg)
 
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png)
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png)
 
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/3.lugares.png)
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/sacromonte.png)
 
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/3.lugares.png
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/sacromonte.png
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/4.palos.png)
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/zambra.png)
 
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/4.palos.png
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/escanea%20c%C3%B3digo.png)
 
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/zambra.png
-
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/escanea%20c%C3%B3digo.png
-
-https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png)
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
