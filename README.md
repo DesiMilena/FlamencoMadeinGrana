@@ -140,7 +140,7 @@ Referencias y recursos:
 
 * Propuestas de mejora
 
-El diseño de la App será revisado por un profesional informático para que mejore todos los aspectos técnicos de la app, y el diseño podría ser mejorado. Además como se mencionaba anteriormente, es necesario la realización de fotografías y vídeos de creación propia.
+El diseño de la App será revisado tanto por un profesional informático para que mejore todos los aspectos técnicos de la misma, como por un profesional del diseño gráfico.
 
 
 
