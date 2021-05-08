@@ -55,8 +55,8 @@ Actividades realizadas mediante Trello https://trello.com/c/OwRccwpa/36-flamenco
 
 **Investigación de campo**   Desk research (propuestas inspiradoras para el proyecto) 
 
-* Aula de flamenco de RTVA Lab. (https://www.rtve.es/lab/aula-flamenco/en/reportaje/)
-* #Lorca 360º. Mariela Luján (http://utopolis.ugr.es/media/lorca360/)
+* Aula de flamenco de RTVA Lab. https://www.rtve.es/lab/aula-flamenco/en/reportaje/
+* #Lorca 360º. Mariela Luján http://utopolis.ugr.es/media/lorca360/
 * 
 
 
