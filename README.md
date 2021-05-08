@@ -120,15 +120,15 @@ Mediante la geolocalización, la app les indicará a los usuario los puntos de n
  
 Además, está pendiente la creación de perfiles en redes sociales y definición de la estrategia que se seguirá en los mismos, así como la creación de listas propias en Spotify que incluyan los temas más destacados de los artistas.
 
-**Problemas identificados  
+**Problemas identificados** 
 
 Al ser un proyecto ambicioso que supone el uso de varias metodologías tecnológicas de cierta complejidad, requiere de un trabajo en equipo con un presupuesto que permita su consecución completa. Además, para llevarlo a la realidad se requieren permisos para colocar los códigos QR en los diferentes espacios y la autorización de los propietarios de esas casas para fotografiarlas y poder realizar los tour virtuales.
 
-**Propuestas de mejora (por qué consideras que merece la pena continuar)
+**Propuestas de mejora** (por qué consideras que merece la pena continuar)
 
 Merece la pena continuar con este proyecto porque daría un impuslso a la actividad flamenca de la ciudad en un momento tan crítico como el vivido en la pandemia. 
 
-**Posible interés del proyecto 
+**Posible interés del proyecto** 
 
 Con ayuda de diferentes instituciones y empresas privadas podría llevarse a cabo, es un proyecto completamente viable. Algunas de las entidades a las que se podría acudir son la Diputación de Granada, así como  las Concejalías de Turismo y Cultura y a nivel regional, podríamos acudir a ayudas de la Consejería de Cultura. Además, los diferentes tablaos de la ciudad podrían aportar una cantidad de dinero a cambio de patrocinio y de incluirlos en nuestra ruta flamenca. 
 
