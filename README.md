@@ -20,9 +20,9 @@ Univesidad de Granada
 
 **Slogan**: Granada cuna del flamenco
 
-**Hashtag**  #FlamencoMadeinGraná #rutaflamencagraná 
+**Hashtag:**  #FlamencoMadeinGraná #rutaflamencagraná 
 
-**Licencia**    Reconocimiento-NoComercial-CompartirIgual
+**Licencia:**    Reconocimiento-NoComercial-CompartirIgual
 
 **Fecha** : 2021
 
