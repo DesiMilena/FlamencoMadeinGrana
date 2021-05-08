@@ -63,13 +63,13 @@ Actividades realizadas mediante Trello https://trello.com/c/OwRccwpa/36-flamenco
 
 **Motivación de la propuesta** Cuando se habla de flamenco, muchos piensan que Jerez o Sevilla fueron las ciudades que más han aportado a esta cultura, y pocos conocen que Granada fue pionera en el flamenco. En esta ciudad se celebró el primer evento que llevó a considerar el flamenco como una alta expresión de la cultura andaluza y a posicionarlo como música popular no solo dirigida a las clases populares, sino también presente en la alta cultura. Nos referimos al concurso de Cante Jondo de Granada celebrado en 2022, del que pronto se cumplen 100 años.  Fue un evento pionero en el flamenco que tuvo lugar en la Plaza de los Aljibes de la Alhambra, y que se celebró gracias al impulso del compositor Manuel de Falla y del poeta Federico García Lorca.
 
-Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto con otros géneros arraigados en la ciudad como el rock, hacen que el flamenco de Granada sea especial
+Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto con otros géneros arraigados en la ciudad como el rock, hacen que el flamenco de Granada sea especial.
 
-**Personas/Usuarios**  Personas de cualquier edad que sean aficionados a la música y quieran conocer más sobre las particularidades del flamenco de Granada, sus artistas y los puntos más flamencos de la ciudad
+**Personas/Usuarios**  Personas de cualquier edad que sean aficionados a la música y quieran conocer más sobre las particularidades del flamenco de Granada, sus artistas y los puntos más flamencos de la ciudad.
 
 **Estilo de narración**  Narración transmedial, que incluye la narración clásica mediante texto explicativo, narración documental, interactiva e inmersiva. 
 
-**Emociones** curiosidad, inquietud, diversión 
+**Emociones** curiosidad, inquietud, diversión.
 
 **Uso/Consumo** Para vivir el proyecto en todas sus vertientes es necesario disponer de un dispositivo inteligente, ya sea tablet o smartphone preferiblemente, pero también a través de un ordenador. 
 
