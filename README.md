@@ -78,10 +78,9 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 **Prototipo de la APP *Flamenco Made in Graná* realizado con Protopie**
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.jpg =218.5x442.5)
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.png" width="219">
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png)
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png)
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png" width="219"><img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png" width="219">
 
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/3.lugares.png)
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/sacromonte.png)
