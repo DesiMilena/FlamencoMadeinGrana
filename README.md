@@ -137,7 +137,7 @@ Con ayuda de diferentes instituciones y empresas privadas podría llevarse a cab
 Referencias y recursos: 
 
 * Los recursos utilizados de texto e imágenes para el prototipado son recursos externos cuya propiedad les pertenece a otros autores (a excepción de la foto del Sacromonte que es propia) . Pero para la realización del proyecto real se usarían imágenes propias o se pediría permiso a sus autores a cambio de referirlos.   
-* El vídeo usado de curro Albaicín es un vídeo propio realizado con anterioridad para otro proyecto laboral propio. Los vídeos de actuaciones serán hipervinculados a Youtube y solo aquellos de creación propia estarán incluídos dentro de la app sin hipervincular.
+* El vídeo usado de Curro Albaicín es un vídeo propio realizado con anterioridad para otro proyecto laboral. Los vídeos de actuaciones serán hipervinculados a Youtube y solo aquellos de creación propia estarán incluídos dentro de la app sin hipervincular.
 
 * Propuestas de mejora
 
