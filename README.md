@@ -73,11 +73,10 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 **Uso/Consumo** Para vivir el proyecto en todas sus vertientes es necesario disponer de un dispositivo inteligente, ya sea tablet o smartphone preferiblemente, pero también a través de un ordenador. 
 
-**Interacción** El usuario debe tener una actitud activa si quiere disfrutar de la experiencia completa más allá de la información que puede recibir a través de la lectura y el visualizado de imágenes y vídeos. Para poder disfrutar de la realidad inmersiva, debe seguir la ruta indicada y acudir a los puntos indicados. Además,  los usuarios participarán subiendo contenido a las redes. Podrán participar en un concurso para ver un espectáculo de flamenco en vivo con cena incluida, para lo cual deben subir a la app un vídeo cantando o bailando (suma más puntos) o una imagen en el lugar emblemático.  La app realiza un sorteo automático entre todas las personas que participan ese día y les regala un espectáculo-cena para dos. Los que envíen vídeo cuentan como doble participación el sorteo. Este material se sube a las redes y sirve a la vez como promoción al proyecto.
+**Interacción** El usuario debe tener una actitud activa si quiere disfrutar de la experiencia completa más allá de la información que puede recibir a través de la lectura y el visualizado de imágenes y vídeos. Para poder disfrutar de la realidad inmersiva, debe seguir la ruta indicada y acudir a los puntos que marque la ruta. Además,  los usuarios podrán tener una actitud activa mediante la subida de contenido a las redes con el uso de nuestros hashtags. Todos aquellos que suban fotografías o vídeos de ellos en cualquiera de los puntos de la ruta flamenca, podrán para paricipar en un concurso para ver un espectáculo de flamenco en vivo con cena incluída.  Todos los días realizaremos un sorteo automático entre todas las personas que participen subiendo fotos y vídeos, cuyo prepio es acudir a un espectáculo-cena flamenca para dos en alguno de los lugares de nuestros patrocinaciores. 
 
-**Actividades de promoción**
+Mediante la geolocalización, la app les indicará a los usuario los puntos de nuestra ruta flamenca y al llegar a ellos, mediante realidad inmersiva podrán ver vídeos de los artistas o imágenes de ellos. Pero también, habrá un código QR en esos punto, que al escanearlo llevará a un vídeo relacionado que podrá ver a través de la app. La app incluirá también una audioguía en la que se irán explicando los detalles que aparecen en la app sin que sea necesario parararse a leerlos durante la ruta.
 
-La gestión de las redes sociales será fundamental para la difusión de nuestro proyecto. 
 
 ### Etapa 2: Prototipar / productos 
 
