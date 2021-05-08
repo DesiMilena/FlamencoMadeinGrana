@@ -20,7 +20,7 @@ Univesidad de Granada
 
 **Slogan**: Granada cuna del flamenco
 
-**Hashtag**  #flamencoGranada #flamencoGraná #flamencogranaíno #palosflamencoGranada #artistasflamencoGranada #Sacromonte #Albaycín #zambra #tangosdeGraná #Granaína
+**Hashtag**  #FlamencoMadeinGraná #rutaflamencagraná 
 
 **Licencia**    Reconocimiento-NoComercial-CompartirIgual
 
@@ -43,7 +43,7 @@ Univesidad de Granada
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Metodología de desarrollo: 
 * Protopie (diseño app)
 * Pano2VR (tour virtuales)
 * Layar (realidad aumentada)
@@ -55,8 +55,8 @@ Actividades realizadas mediante Trello https://trello.com/c/OwRccwpa/36-flamenco
 
 **Investigación de campo**   Desk research (propuestas inspiradoras para el proyecto) 
 
-* Aula de flamenco de RTVA Lab. https://www.rtve.es/lab/aula-flamenco/en/reportaje/
-* (...)
+* Aula de flamenco de RTVA Lab. (https://www.rtve.es/lab/aula-flamenco/en/reportaje/)
+* #Lorca 360º. Mariela Luján (http://utopolis.ugr.es/media/lorca360/)
 * 
 
 
