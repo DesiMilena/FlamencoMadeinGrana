@@ -22,8 +22,8 @@ Univesidad de Granada
 
 **Hashtag:**  #FlamencoMadeinGraná #rutaflamencagraná 
 
-**Licencia:**    Reconocimiento-NoComercial-CompartirIgual
-
+**Licencia:**    
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/licencia.jpg" width="367">
 **Fecha** : 2021
 
 **Medios** (donde se tiene presencia):
