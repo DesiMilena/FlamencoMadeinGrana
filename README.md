@@ -78,21 +78,17 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 **Prototipo de la APP *Flamenco Made in Graná* realizado con Protopie**
 
-<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.png" width="219">
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.png" width="262">
 
-<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png" width="219"><img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png" width="219">
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png" width="262"><img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png" width="262">
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/3.lugares.png)
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/sacromonte.png)
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/3.lugares.png" width="262"><img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/sacromonte.png" width="262">
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/4.palos.png)
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/zambra.png)
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/4.palos.png" width="262"><img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/zambra.png" width="262">
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png)
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/ruta%20flamenca.png" width="262">
 
-
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/escanea%20c%C3%B3digo.png)
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/curro%20tangos%20de%20Gran%C3%A1.png)
+<img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/escanea%20c%C3%B3digo.png" width="262"><img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/curro%20tangos%20de%20Gran%C3%A1.png" width="262">
 
 
 
