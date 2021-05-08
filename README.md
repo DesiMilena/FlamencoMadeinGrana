@@ -24,6 +24,7 @@ Univesidad de Granada
 
 **Licencia:**    
 <img src="https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/licencia.jpg" width="367">
+
 **Fecha** : 2021
 
 **Medios** (donde se tiene presencia):
