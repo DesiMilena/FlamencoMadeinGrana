@@ -94,10 +94,12 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
+* **Test con usuarios** para comprobar el grado de usabilidad de la app.
+* **Google Analytic** para medir los datos de estadísticas de marketing y comportamiento en la app y la actividad generada por la web.
+* **Twitter Analytic** para medir las estadísticas de nuestras publicaciones en Twitter.
+* **Tweet Binder** para buscar los tweets que han usado nuestros hashtag.
+* **Facebook Business Suite** para medir las estadísitcas de nuestras acciones tanto en Facebook como en Instagram. 
 
 
 
@@ -106,10 +108,12 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* **Grado de consecución del proyecto*
+ El proyecto se encuentra en la fase de prototipado de la App que es la herramienta principal, aunque no la única que sirve a la construcción del proyecto completo.  Quedaría la realización de tours virtuales a través de Pano2VR por los lugares que formarán parte de nuestra ruta flamenca, como son las casas o cuevas de algunos de los artistas, o el Museo del Sacromonte. Y el proyecto finalizaría con realidad aumentada creada mediante Layar que nos permitiría ver actuaciones de diferentes artistas al escanear el código por los diferentes lugares de nuestra ruta.
+
+* **Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* **Propuestas de mejora (por qué consideras que merece la pena continuar)
+* **Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
 
 Referencias y recursos: 
