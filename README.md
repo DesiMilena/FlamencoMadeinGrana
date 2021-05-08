@@ -70,20 +70,15 @@ Las raíces moriscas de la ciudad, la influencia de Lorca y Falla o el contacto 
 
 **Estilo de narración**  Narración documental, interactiva e inmersiva.
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* realidad inmersiva
-
-
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.jpg)
+**Prototipo de la APP *Flamenco Made in Graná* realizado con Protopie**
+
+![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/1.principal.jpg =218.5x442.5)
 
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.artistas.png)
 ![Flamenco made in Graná](https://github.com/DesiMilena/FlamencoMadeinGrana/blob/master/2.%20artistas%20Morente%20app.png)
